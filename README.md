@@ -17,10 +17,10 @@ I am a security operations center analyst with extensive training and hands-on e
 ##  I’m currently learning on TryHackMe using the SOC pathway and on pwn.college
 
 ## Connect with Me
-- [LinkedIn] (http://linkedin.com/in/stella-omotoyinbo)
-- [Tryhackme Profile] (https://tryhackme.com/r/p/TheThreatTitan)
+- [LinkedIn](http://linkedin.com/in/stella-omotoyinbo)
+- [Tryhackme Profile](https://tryhackme.com/r/p/TheThreatTitan)
 ## How to reach me
-- 📫  thethreattitan@gmail.com
+- 📫(thethreattitan@gmail.com)
 ## ⚡ Fun fact: ...
 - If you haven't already noticed. I am an Otaku
 
