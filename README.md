@@ -10,9 +10,9 @@ I am a security operations center analyst with extensive training and hands-on e
 - **Forensics Tools**: Practical experience with tools such as FTK Imager, Kape, Autopsy, Wireshark, Volatility, and others.
 
 ## Certifications
-- ISC2 Certified in Cybersecurity (https://www.credly.com/badges/4d67d29a-3a46-4623-8146-9fc1e08bed9b/public_url)
-- Microsoft Security Operations Center Associate (https://learn.microsoft.com/api/credentials/share/en-us/Stella-2638/B7B85F09A53D8FA?sharingId=FFC1D3D655F6D61F)
-- Blue Team Level 1 Certified (https://www.credly.com/badges/d328ae1c-d201-4d88-b479-223084c27a0c/public_url)
+- [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/4d67d29a-3a46-4623-8146-9fc1e08bed9b/public_url)
+- [Microsoft Security Operations Center Associate](https://learn.microsoft.com/api/credentials/share/en-us/Stella-2638/B7B85F09A53D8FA?sharingId=FFC1D3D655F6D61F)
+- [Blue Team Level 1 Certified](https://www.credly.com/badges/d328ae1c-d201-4d88-b479-223084c27a0c/public_url)
 ## I’m interested in Security Operations and Threat Intelligence 👀
 ##  I’m currently learning on TryHackMe using the SOC pathway and on pwn.college
 
@@ -20,7 +20,7 @@ I am a security operations center analyst with extensive training and hands-on e
 - [LinkedIn](http://linkedin.com/in/stella-omotoyinbo)
 - [Tryhackme Profile](https://tryhackme.com/r/p/TheThreatTitan)
 ## How to reach me
-- 📫(thethreattitan@gmail.com)
+- 📫 [Mail me](thethreattitan@gmail.com)
 ## ⚡ Fun fact: ...
 - If you haven't already noticed. I am an Otaku
 
