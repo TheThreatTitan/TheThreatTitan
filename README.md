@@ -1,4 +1,4 @@
-# Hi, I’m Stella Omotoyinbo (TheThreatTitan) 👋
+# Hi, I’m Stella (TheThreatTitan) 👋
 I am a security operations center analyst with extensive training and hands-on expereince in threat analysis, malware analysis, and incident response.
 
 ## Skills
